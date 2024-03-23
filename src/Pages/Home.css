@@ -1,0 +1,179 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-size: 100% 100%;
+    background-color: #000000;
+  }
+
+
+.button{
+  background-color: #5372a2; 
+  color: black;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  width: 200px;
+  height: 35px;
+  margin-left: 20px;
+}
+
+.form{
+  margin-top: 25px;
+  padding-left: 25px;
+  margin-left: 25px;
+  float: left;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #ffffff;
+  color: black;
+}
+
+.image{
+  height: 800px;
+  width: 900px;
+  margin-top: 75px;
+  padding-right: 55px;
+  margin-right: 75px;
+  float: right;
+}
+
+.Activity{
+  margin-left: 30px;
+}
+
+.range-slider{
+  width: 35%;
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+.Senior{  
+  width: 30%;
+  padding-bottom: 30px;
+  padding-top: 10px;
+  margin-left: 200px;
+  float: left;
+  color: black;
+  border: 10px solid rgb(0, 0, 0);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 30px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 18px;
+  }
+  .Caregiver{
+    width: 30%;
+    padding-bottom: 45px;
+    padding-top: 10px;
+    margin-right: 200px;
+    float: right;
+    color: black;
+    border: 10px solid rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 18px;
+  
+  }
+  
+  .button{
+  background-color: #5372a2; 
+  color: rgb(0, 0, 0);
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  width: 200px;
+  height: 35px;
+  margin-left: 20px;
+  }
+  
+  .form{
+  margin-top: 25px;
+  padding-left: 25px;
+  margin-left: 25px;
+  float: left;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #ffffff;
+  color: black;
+  }
+  
+  .image{
+  height: 800px;
+  width: 900px;
+  margin-top: 75px;
+  padding-right: 55px;
+  margin-right: 75px;
+  float: right;
+  }
+  
+  .Activity{
+  margin-left: 30px;
+  }
+  
+  .range-slider{
+  width: 35%;
+  }
+  
+  .container {
+  text-align: center;
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 2px solid black;
+  }
+  .blog {
+    width: 50%;
+    padding-left: 15px;
+    margin-left: 5px;
+    float: right;
+    font-style: italic;
+    background-color: #ffffff;
+    color: black;
+  }
+  .blog2 {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 5px;
+    float: left;
+    font-style: italic;
+    background-color: #ffffff;
+    color: black;
+  }
+  
+  .yes {
+    background-color: #5372a2;
+    border-radius: 15%;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .no {
+    background-color: #ffffff;
+    border-radius: 15%;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: right;
+    margin-right: 60%;
+  }
